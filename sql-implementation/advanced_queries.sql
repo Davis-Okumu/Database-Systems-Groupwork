@@ -1,0 +1,1 @@
+-- SQL script with advanced queries like joins, subqueries, aggregate functions

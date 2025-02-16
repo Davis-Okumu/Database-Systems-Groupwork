@@ -1,0 +1,1 @@
+-- SQL script to create tables based on the schema
