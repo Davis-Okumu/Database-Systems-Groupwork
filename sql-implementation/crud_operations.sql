@@ -1,1 +1,0 @@
--- SQL script with examples of Create, Read, Update, Delete operations
