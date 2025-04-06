@@ -6,4 +6,7 @@ Group Members
 134887 Tony Amoyah Kaiko
 121806 Zalugurha Iwen Lama
 165477 Laban otieno
+<<<<<<< HEAD
 
+=======
+>>>>>>> e631a0e18dee3d71322c15c198b6939273769a3c
