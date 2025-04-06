@@ -1,1 +1,0 @@
-ERD done using PgAdmin 4 tool.
