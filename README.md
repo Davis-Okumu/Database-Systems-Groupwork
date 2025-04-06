@@ -6,4 +6,3 @@ Group Members
 134887 Tony Amoyah Kaiko
 121806 Zalugurha Iwen Lama
 165477 Laban otieno
-126470 Ronald mwambia
