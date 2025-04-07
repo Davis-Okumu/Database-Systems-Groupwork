@@ -176,4 +176,3 @@ INSERT INTO CommunityImpact (ImpactID, ProjectID, EmploymentRate, EducationEnrol
 (9, 913, 82.00, 93.00, 89.00, 1, 4.80),
 (10, 1013, 85.00, 95.00, 90.00, 12, 4.90);
 
-#kjk
